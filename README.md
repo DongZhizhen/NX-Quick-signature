@@ -4,7 +4,7 @@ I have created this NX10_QuickSignature project, in order to improve the efficie
 
 It had been written by Zhizhen Dong in 2020-2021.
 
-# Compilation and usage instructions
+# Compilation and usage
 This plug-in has been tested under:
 - Siemens UG NX10.0 
 - Microsoft Windows with Visual Studio 2015 (64-bit)
