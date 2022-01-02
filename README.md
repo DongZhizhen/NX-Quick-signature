@@ -9,7 +9,7 @@ I have created this NX10_QuickSignature project, in order to improve the efficie
 
 1. 
 
-2. Put the above "*.png" file to folder <NX program folder> NX 10.0\LOCALIZATION\signtool 
+2. Put the above "*.png" file to folder &#60 NX program folder &#62 NX 10.0\LOCALIZATION\signtool 
   (by default C:\Program Files\Siemens\NX 10.0\LOCALIZATION\signtool )
 
 3. REBOOT computer
