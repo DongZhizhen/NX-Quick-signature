@@ -18,9 +18,11 @@ This codes had been written by Zhizhen Dong in 2020-2021
 
 3. REBOOT computer
 
-4. Using the shortcut keys "Crtl+U" in drawing interface, and import the "NX10_QuickSignature.dll" file
+4. Open the NX program and enter the drawing interface
 
-5. Enjoy!
+5. Use the shortcut keys "Crtl+U", and import the "NX10_QuickSignature.dll" file
+
+6. Enjoy!
 
 
 # Compiler Environment
