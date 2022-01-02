@@ -17,7 +17,7 @@ This plug-in has been tested under:
 2. Put the above "*.png" file to folder &#60;NX program folder &#62;NX 10.0\LOCALIZATION\signtool 
   (by default C:\Program Files\Siemens\NX 10.0\LOCALIZATION\signtool)
 
-3. REBOOT computer
+3. Reboot computer
 
 4. Open the NX program and enter the drawing interface
 
