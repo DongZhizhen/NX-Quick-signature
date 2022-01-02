@@ -1,14 +1,14 @@
 # About NX-Quick-signature
+I have created this NX10_QuickSignature project, in order to improve the efficiency of engineering drawings.
 The quick signature plug-in for engineering drawings, based on the API interface of UG secondary development.
 It had been written by Zhizhen Dong in 2020-2021
 
 # NX Open API : NX10_QuickSignature Project Overview
-I have created this NX10_QuickSignature project, in order to improve the efficiency of engineering drawings.
 
-
-# Compiler Environment
-Siemens UG NX10.0 
-Microsoft Windows with Visual Studio 2015 (64-bit)
+# Compilation and usage instructions
+This plug-in has been tested under:
+- Siemens UG NX10.0 
+- Microsoft Windows with Visual Studio 2015 (64-bit)
 
 # User's Guidance
 
@@ -26,5 +26,6 @@ Microsoft Windows with Visual Studio 2015 (64-bit)
 
 6. Enjoy!
 
-
-
+# License
+The NX10_QuickSignature plug-in is licensed under the terms of the Apache License 2.0.
+See LICENSE-2.0 for more information.
