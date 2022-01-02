@@ -8,7 +8,7 @@ I have created this NX10_QuickSignature project, in order to improve the efficie
 # User's Guidance
 
 1. Save the signature picture as "*.png" format, and named "1-7" in order from top to bottom and left to right
-2. (by default 1.png, 2.png, ..., 7.png)
+  (by default 1.png, 2.png, ..., 7.png)
 
 2. Put the above "*.png" file to folder &#60;NX program folder &#62;NX 10.0\LOCALIZATION\signtool 
   (by default C:\Program Files\Siemens\NX 10.0\LOCALIZATION\signtool)
