@@ -5,6 +5,9 @@ The quick signature plug-in for engineering drawings, based on the API interface
 I have created this NX10_QuickSignature project, in order to improve the efficiency of engineering drawings.
 
 
+
+This codes had been written by Zhizhen Dong in 2020-2021
+
 # User's Guidance
 
 1. Save the signature picture as "*.png" format, and named "1-7" in order from top to bottom and left to right
@@ -15,7 +18,9 @@ I have created this NX10_QuickSignature project, in order to improve the efficie
 
 3. REBOOT computer
 
-4. Enjoy!
+4. Using the shortcut keys "Crtl+U" in drawing interface, and import the "NX10_QuickSignature.dll" file
+
+5. Enjoy!
 
 
 # Compiler Environment
