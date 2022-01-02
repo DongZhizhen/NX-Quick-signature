@@ -1,7 +1,8 @@
 # About NX-Quick-signature
-I have created this NX10_QuickSignature project, in order to improve the efficiency of engineering drawings.
 The quick signature plug-in for engineering drawings, based on the API interface of UG secondary development.
-It had been written by Zhizhen Dong in 2020-2021
+I have created this NX10_QuickSignature project, in order to improve the efficiency of engineering drawings.
+
+It had been written by Zhizhen Dong in 2020-2021.
 
 # Compilation and usage instructions
 This plug-in has been tested under:
