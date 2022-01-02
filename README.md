@@ -7,9 +7,9 @@ I have created this NX10_QuickSignature project, in order to improve the efficie
 
 # User's Guidance
 
-1.
+1. 
 
-2.
+2. Put the above file in folder <ANSYS Inc program folder>\Shared Files\licensing (by default C:\Program Files\ANSYS Inc\Shared Files\licensing )
 
 3. REBOOT computer
 
