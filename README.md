@@ -9,7 +9,7 @@ This plug-in has been tested under:
 - Siemens UG NX10.0 
 - Microsoft Windows with Visual Studio 2015 (64-bit)
 
-# User's Guidance
+# User's guidance
 
 1. Save the signature picture as "*.png" format, and named "1-7" in order from top to bottom and left to right
   (by default 1.png, 2.png, ..., 7.png)
