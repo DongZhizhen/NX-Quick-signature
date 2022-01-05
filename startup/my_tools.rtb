@@ -1,0 +1,12 @@
+TITLE  我的插件
+! VERSION below is a language value not to be revved
+VERSION 170
+
+BEGIN_GROUP NX2MYTOOL_GROUP
+LABEL 我的插件们
+
+    BUTTON NX2MYTOOL_Signature
+    LABEL 快速签名
+    MESSAGE 工程图的快速签名.
+
+END_GROUP
