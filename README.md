@@ -14,7 +14,7 @@ This plug-in has been tested under:
 1. Save the signature picture as "*.png" format, and named "1-7" in order from top to bottom and left to right
   (by default 1.png, 2.png, ..., 7.png)
 
-2. Put the above "*.png" file to folder &#60;NX program folder &#62;NX 10.0\LOCALIZATION\signtool 
+2. Move the above "*.png" file to folder &#60;NX program folder &#62;NX 10.0\LOCALIZATION\signtool 
   (by default C:\Program Files\Siemens\NX 10.0\LOCALIZATION\signtool)
 
 3. Reboot computer
